@@ -1,0 +1,23 @@
+{
+  "name": "occupied",
+  "version": "1.0.0",
+  "description": "This is a simple code checking wether npm module is taken or not",
+  "main": "App.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/OCCUPIED.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/OCCUPIED/issues"
+  },
+  "homepage": "https://github.com/alestor123/OCCUPIED#readme"
+}
