@@ -6,5 +6,5 @@ if(await axios.get(`https://registry.npmjs.org/${name}`)) return true
 }
 catch(err) {
 return !err.response.status==404
-}
+}   
 }
