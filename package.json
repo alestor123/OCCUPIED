@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code checking wether npm module is taken or not",
   "main": "App.js",
+  "bin": {
+    "occupied": "cli.js"
+  },
   "dependencies": {
     "axios": "^0.21.1"
   },
